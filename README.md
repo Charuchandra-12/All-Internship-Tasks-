@@ -9,6 +9,8 @@ Task 5:- https://github.com/Charuchandra-12/Automate-installation-of-Strapi-CMS-
 
 Task 6:- https://github.com/Charuchandra-12/Use-Github-Actions-to-automate-the-Strapi-CMS-Application-using-Terraform
 
+Task 8:- https://github.com/Charuchandra-12/hello-world-api-testing-v2
+
 Task 1:- https://youtu.be/hjCWkp8Fob0?si=IBfbse4fZQ_iImNj
 
 Task 4:- https://youtu.be/cr_YgAc7mTc?si=siJwLDn7SA8c0_OO
