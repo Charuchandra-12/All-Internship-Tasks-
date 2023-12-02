@@ -1,5 +1,5 @@
 # All-Internship-Tasks-
-This repo contains all the links to the work that I have done in the internship provided by <a href="https://www.linkedin.com/company/pearlthoughts/?originalSubdomain=in">**PearlThoughts**</a>  
+This repo contains all the links to the work that I have done in the internship provided by <a href="https://www.pearlthoughts.com/">**PearlThoughts**</a>  
 
 Task 2:- https://github.com/Charuchandra-12/Auto-creation-of-the-VM-and-installation-of-Snipe-IT-using-terraform
 
