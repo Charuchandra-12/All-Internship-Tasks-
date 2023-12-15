@@ -19,3 +19,5 @@ Task 7 (Deploy Strapi in Azure containers):- https://youtu.be/juHtSynUV3k?si=eU_
 Task 8:- https://github.com/Charuchandra-12/hello-world-api-testing-v2
 
 Task 9 (Use SigNoz for APM):- https://youtu.be/7tzXTmmXjY8
+
+Task 10:- https://github.com/Charuchandra-12/Grafana-and-Prometheus-monitoring
